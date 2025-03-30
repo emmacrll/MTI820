@@ -1,0 +1,13 @@
+mois,nb_moyen_sportifs_par_jour,duree_moyenne_minutes,activite_dominante
+janvier,950,35,En salle
+février,1000,36,En salle
+mars,1200,38,Marche
+avril,1600,41,Marche
+mai,2000,45,Vélo
+juin,2300,48,Vélo
+juillet,2500,50,Course
+août,2400,49,Vélo
+septembre,2100,46,Course
+octobre,1700,42,Marche
+novembre,1200,38,En salle
+décembre,1000,36,Yoga
